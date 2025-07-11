@@ -1,2 +1,1 @@
-# portfulio
-My personal portfulio
+# portfolio
